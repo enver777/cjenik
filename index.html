@@ -19,7 +19,7 @@
     margin: 0; padding: 40px 16px; background: var(--pozadina); color: var(--tekst);
     font: 16px/1.55 -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   }
-  main { max-width: 720px; margin: 0 auto; }
+  main { max-width: 760px; margin: 0 auto; }
   h1 { font-size: 1.5rem; margin: 0 0 .4em; color: var(--boja); }
   p.uvod { margin: 0 0 1.4em; }
   .fiksna {
@@ -27,13 +27,14 @@
     padding: 14px 16px; margin: 0 0 1.8em; border-radius: 4px;
   }
   .fiksna strong { display: block; font-size: .85rem; text-transform: uppercase;
-    letter-spacing: .04em; color: var(--boja); margin-bottom: .3em; }
+    letter-spacing: .04em; color: var(--boja); margin-bottom: .4em; }
+  .fiksna ul { margin: 0; padding-left: 1.2em; }
   code { font-family: ui-monospace, Consolas, monospace; font-size: .92em; word-break: break-all; }
   table { border-collapse: collapse; width: 100%; }
   th, td { text-align: left; padding: 9px 10px; border-bottom: 1px solid var(--tanko); }
   th { font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; color: var(--boja); }
   td.d { white-space: nowrap; font-variant-numeric: tabular-nums; }
-  td.v { white-space: nowrap; text-align: right; font-variant-numeric: tabular-nums; opacity: .7; }
+  td.f { text-transform: uppercase; font-size: .8rem; opacity: .65; }
   a { color: var(--boja); }
   em { opacity: .7; font-style: normal; font-size: .9em; }
   footer { margin-top: 2.2em; font-size: .85rem; opacity: .7; }
@@ -42,36 +43,23 @@
 <body>
 <main>
   <h1>OxyMar — cjenici</h1>
-  <p class="uvod">Cjenik u strojno čitljivom obliku. Najnovija verzija uvijek je dostupna na nepromjenjivoj adresi, a sve starije ostaju ovdje.</p>
+  <p class="uvod">Cjenik u strojno čitljivom obliku, prema Odluci NN 101/2026. Najnovija verzija uvijek je na nepromjenjivoj adresi, a sve starije ostaju dostupne ovdje.</p>
 
   <div class="fiksna">
-    <strong>Trajna adresa najnovijeg cjenika</strong>
-    <code>cjenik-najnoviji.csv</code>
+    <strong>Trajne adrese najnovijeg cjenika</strong>
+    <ul><li><code>cjenik-najnoviji.csv</code></li><li><code>cjenik-najnoviji.xml</code></li></ul>
   </div>
 
   <table>
-    <thead><tr><th>Datum</th><th>Datoteka</th></tr></thead>
+    <thead><tr><th>Sastavljeno</th><th>Format</th><th>Datoteka</th></tr></thead>
     <tbody>
-      <tr><td class="d">24.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260924-0723.csv">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260924-0723.csv</a> <em>(najnoviji)</em></td></tr>
-      <tr><td class="d">24.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260924-0723.xml">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260924-0723.xml</a></td></tr>
-      <tr><td class="d">23.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260923-0811.csv">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260923-0811.csv</a></td></tr>
-      <tr><td class="d">23.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260923-0811.xml">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260923-0811.xml</a></td></tr>
-      <tr><td class="d">22.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260922-0744.csv">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260922-0744.csv</a></td></tr>
-      <tr><td class="d">22.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260922-0744.xml">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260922-0744.xml</a></td></tr>
-      <tr><td class="d">21.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260921-0726.csv">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260921-0726.csv</a></td></tr>
-      <tr><td class="d">21.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260921-0726.xml">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260921-0726.xml</a></td></tr>
-      <tr><td class="d">16.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260916-1319.csv">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260916-1319.csv</a></td></tr>
-      <tr><td class="d">16.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260916-1319.xml">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260916-1319.xml</a></td></tr>
-      <tr><td class="d">15.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260915-0837.csv">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260915-0837.csv</a></td></tr>
-      <tr><td class="d">15.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260915-0837.xml">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260915-0837.xml</a></td></tr>
-      <tr><td class="d">15.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260915-0942.csv">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260915-0942.csv</a></td></tr>
-      <tr><td class="d">15.09.2026.</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260915-0942.xml">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260915-0942.xml</a></td></tr>
+      <tr><td class="d">24.09.2026. 10:35</td><td class="f">csv</td><td><a href="webshop_ivane-brlic-mazuranic-25-zagreb_oxy01_1_20260924-1035.csv">webshop_ivane-brlic-mazuranic-25-zagreb_oxy01_1_20260924-1035.csv</a> <em>(najnoviji)</em></td></tr><tr><td class="d">24.09.2026. 10:35</td><td class="f">xml</td><td><a href="webshop_ivane-brlic-mazuranic-25-zagreb_oxy01_1_20260924-1035.xml">webshop_ivane-brlic-mazuranic-25-zagreb_oxy01_1_20260924-1035.xml</a> <em>(najnoviji)</em></td></tr><tr><td class="d">24.09.2026. 10:26</td><td class="f">csv</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260924-1026.csv">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260924-1026.csv</a></td></tr><tr><td class="d">24.09.2026. 10:26</td><td class="f">xml</td><td><a href="webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260924-1026.xml">webshop_Ivane-Brlic-Mazuranic-25-Zagreb_OXY01_1_20260924-1026.xml</a></td></tr>
     </tbody>
   </table>
 
   <footer>
-    OxyMar d.o.o. · popis osvježen 24.09.2026. u 09:41 ·
-    14 cjenika
+    OxyMar d.o.o. · popis osvježen 24.09.2026. u 10:37 ·
+    4 datoteka
   </footer>
 </main>
 </body>
