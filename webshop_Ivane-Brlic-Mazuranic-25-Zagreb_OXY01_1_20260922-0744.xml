@@ -1,0 +1,2980 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Cjenik oblikObjekta="webshop" adresaObjekta="Ivane Brlic Mazuranic 25, Zagreb" oznakaObjekta="OXY01" vrijemeSlanja="2026-09-22T07:44:22">
+  <Proizvod>
+    <naziv>Adapter za crijevo za kisik</naziv>
+    <sifra>1036569</sifra>
+    <marka>Salter</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>1.96</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>1.96</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Antidekubitalni jastuk za invalidska kolica - 38cm*38cm*6cm</naziv>
+    <sifra>829022.38</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Antidekubitalni jastuk za invalidska kolica - 41cm*39*6cm</naziv>
+    <sifra>829022.41S</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Antidekubitalni jastuk za invalidska kolica - 41cm*41cm*6cm</naziv>
+    <sifra>829022.41</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Antidekubitalni jastuk za invalidska kolica - 43cm*41cm*6cm</naziv>
+    <sifra>829022.43S</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Antidekubitalni jastuk za invalidska kolica - 43cm*43cm*6cm</naziv>
+    <sifra>829022.43</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Antidekubitalni jastuk za invalidska kolica - 45cm*42cm*6cm</naziv>
+    <sifra>829022.45S</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Antidekubitalni jastuk za sjedenje 829013</naziv>
+    <sifra>OXY-829013</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>56.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>56.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Antidekubitalni nadmadrac 823024</naziv>
+    <sifra>OXY-823024</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>75.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>75.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Armfit+ tlakomjer s EKG funkcijom , Bluetooth povezivost</naziv>
+    <sifra>OXY-Armfit+</sifra>
+    <marka>Lepu Medical</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>165.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>165.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Aspirator za uši 819150</naziv>
+    <sifra>OXY-819150</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>10.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>10.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Aston tuš stolica/WC</naziv>
+    <sifra>822165</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>399.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>399.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Azores sklopivo sjedalo za tuš</naziv>
+    <sifra>812298N</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>99.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>99.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Beurer set od 8 elektroda za TENS</naziv>
+    <sifra>EM49</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>20.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>20.00</sidrena_cijena>
+    <barkod>4211125661021</barkod>
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Bočica za kisik 5L</naziv>
+    <sifra>1337/0810081</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>5.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>5.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Contour CPAP jastuk</naziv>
+    <sifra>01MT003</sifra>
+    <marka>Contour</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>67.79</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>67.79</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Creative pulsni oksimetar PC-60B1</naziv>
+    <sifra>1265</sifra>
+    <marka>Creative Medical</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Crijevo za kisik 7,6 m</naziv>
+    <sifra>2025</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>2.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>2.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Daska za sjedenje za kadu Java 812176N</naziv>
+    <sifra>OXY-812176N</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>58.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>58.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Dječja štaka plava 816120.B</naziv>
+    <sifra>OXY-816120.B</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>17.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>17.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Dječja štaka plava 816120.T</naziv>
+    <sifra>OXY-816120.T</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>17.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>17.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Dječja štaka zelena 816120.P</naziv>
+    <sifra>OXY-816120.P</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>17.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>17.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za koljeno - L</naziv>
+    <sifra>S6040L</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>15.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>15.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za koljeno - M</naziv>
+    <sifra>S6040M</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>15.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>15.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za koljeno - S</naziv>
+    <sifra>S6040S</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>15.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>15.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za koljeno - XL</naziv>
+    <sifra>S6040XL</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>15.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>15.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za lakat - L</naziv>
+    <sifra>S8317L</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>12.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>12.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za lakat - M</naziv>
+    <sifra>S8317M</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>12.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>12.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za lakat - S</naziv>
+    <sifra>S8317S</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>12.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>12.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za lakat - XL</naziv>
+    <sifra>S8317XL</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>12.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>12.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za zapešće - L</naziv>
+    <sifra>S8503L</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>12.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>12.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za zapešće - M</naziv>
+    <sifra>S8503M</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>12.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>12.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za zapešće - S</naziv>
+    <sifra>S8503S</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>12.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>12.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei elastični steznik za zapešće - XL</naziv>
+    <sifra>S8503XL</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>12.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>12.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječja mitela za ruku - L</naziv>
+    <sifra>KD910L</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječja mitela za ruku - M</naziv>
+    <sifra>KD910M</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječja mitela za ruku - S</naziv>
+    <sifra>KD910S</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječja ortoza za ručni zglob - L</naziv>
+    <sifra>KD852L</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>30.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>30.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječja ortoza za ručni zglob - M</naziv>
+    <sifra>KD852M</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>30.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>30.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječja ortoza za ručni zglob - S</naziv>
+    <sifra>KD852S</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>30.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>30.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječja potpora za pravilno držanje - L</naziv>
+    <sifra>KD205L</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječja potpora za pravilno držanje - M</naziv>
+    <sifra>KD205M</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječja potpora za pravilno držanje - S</naziv>
+    <sifra>KD205S</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids dječji steznik za gležanj univerzalni</naziv>
+    <sifra>KD710</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>25.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>25.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids ortoza za palac - L</naziv>
+    <sifra>KD814L</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>20.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>20.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids ortoza za palac - M</naziv>
+    <sifra>KD814M</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>20.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>20.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids ortoza za palac - S</naziv>
+    <sifra>KD814S</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>20.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>20.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids podesiva dječja ortoza za koljeno - L</naziv>
+    <sifra>KD658L</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>45.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>45.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids podesiva dječja ortoza za koljeno - M</naziv>
+    <sifra>KD658M</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>45.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>45.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Kids podesiva dječja ortoza za koljeno - S</naziv>
+    <sifra>KD658S</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>45.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>45.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za koljeno</naziv>
+    <sifra>S6035</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>45.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>45.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za lakat s dodatnom fiksacijom</naziv>
+    <sifra>S8321</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za leđa</naziv>
+    <sifra>1372</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>80.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>80.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za leđa univerzalna</naziv>
+    <sifra>FG341</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>100.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>100.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za patelu s trakom</naziv>
+    <sifra>S6010</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>20.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>20.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za teniski/golferski lakat</naziv>
+    <sifra>S8322</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>25.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>25.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za zapešće - Desna</naziv>
+    <sifra>S8551R</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za zapešće - Lijeva</naziv>
+    <sifra>S8551L</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za zapešće s fiksacijom palca - Desna</naziv>
+    <sifra>S8555R</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>45.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>45.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei ortoza za zapešće s fiksacijom palca - Lijeva</naziv>
+    <sifra>S8555L</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>45.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>45.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei podesivi steznik za zapešće</naziv>
+    <sifra>Product_6ddeaf8e-3459-4474-bd15-92a33acd9558</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>9.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>9.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei stabilizirajuća ortoza za zglob s potporom - L/XL</naziv>
+    <sifra>FG851</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>45.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>45.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei stabilizirajuća ortoza za zglob s potporom - S/M</naziv>
+    <sifra>Product_36fa7243-ca0d-4787-a495-374f3d04283b-S-M</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>45.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>45.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei stabilizirajući steznik za koljeno</naziv>
+    <sifra>1369</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei steznik za gležanj</naziv>
+    <sifra>S7028</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>30.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>30.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei steznik za patelu koljena univerzalni</naziv>
+    <sifra>FG610</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>15.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>15.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Turbo Base kompresijski inhalator</naziv>
+    <sifra>1411</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>55.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>55.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>dr.Frei Turbo Care kompresijski inhalator</naziv>
+    <sifra>1411</sifra>
+    <marka>dr.Frei</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>65.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>65.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Drveni štap Derby Crni  816117.N</naziv>
+    <sifra>OXY-816117.N</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>17.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>17.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Drveni štap Derby Smeđi</naziv>
+    <sifra>OXY-816117.F</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>17.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>17.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Drzac za kadu 812093</naziv>
+    <sifra>OXY-812093</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>E-Fold Lite sklopiva električna invalidska kolica</naziv>
+    <sifra>824048</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>3199.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>3199.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Eco Assist elektromotorni dodatak za invalidska kolica</naziv>
+    <sifra>875037</sifra>
+    <marka>Rehasense</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>5200.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>5200.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Eko podizno sjedalo za pomoć pri ustajanju - Easy electric</naziv>
+    <sifra>821078</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>315.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>315.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Eko podizno sjedalo za pomoć pri ustajanju - Eco</naziv>
+    <sifra>821001</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>115.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>115.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Eko podizno sjedalo za pomoć pri ustajanju - Up Easy</naziv>
+    <sifra>821076</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>185.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>185.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Eko podizno sjedalo za pomoć pri ustajanju - Up Easy Med</naziv>
+    <sifra>821077</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>235.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>235.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Ergo Reacher hvataljka 67cm 817067 - 67 cm</naziv>
+    <sifra>OXY-817067</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>14.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>14.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Ergo Reacher hvataljka 67cm 817067 - 76 cm</naziv>
+    <sifra>ergo-reacher-hvataljka-67cm-817067-76-cm</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>14.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>14.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Ergo štaka Opti Comfort Premium 816047.BLEU</naziv>
+    <sifra>OXY-816047.BLEU</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Ergo štaka Opti Comfort Premium 816047.NOIR</naziv>
+    <sifra>OXY-816047.NOIR</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Ergo štaka Opti Comfort Premium 816047.VIOLET</naziv>
+    <sifra>OXY-816047.VIOLET</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Fischer &amp; Paykel Eson 2 nazalna maska za potpomognuto disanje, CPAP - L</naziv>
+    <sifra>Product_99abf954-d0fd-440f-8cc9-3736eec9bf38-L</sifra>
+    <marka>Fischer&amp;Paykel</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>66.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>66.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Fischer &amp; Paykel Eson 2 nazalna maska za potpomognuto disanje, CPAP - M</naziv>
+    <sifra>Product_99abf954-d0fd-440f-8cc9-3736eec9bf38-M</sifra>
+    <marka>Fischer&amp;Paykel</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>66.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>66.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Fischer &amp; Paykel Eson 2 nazalna maska za potpomognuto disanje, CPAP - S</naziv>
+    <sifra>01MT0019</sifra>
+    <marka>Fischer&amp;Paykel</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>66.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>66.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Fisher &amp; Paykel Brevida™  nazalna pillow CPAP maska - M-L</naziv>
+    <sifra>Product_79218dc0-74d0-418c-9f4f-b32d56b6f920-M-L</sifra>
+    <marka>Fischer&amp;Paykel</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>115.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>115.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Fisher &amp; Paykel Brevida™  nazalna pillow CPAP maska - XS-S</naziv>
+    <sifra>01MT0014</sifra>
+    <marka>Fischer&amp;Paykel</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>115.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>115.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gel ulošci - 35-36</naziv>
+    <sifra>115059.35</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gel ulošci - 37-38</naziv>
+    <sifra>115038.37</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gel ulošci - 39-40</naziv>
+    <sifra>115038.39</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gel ulošci - 41-42</naziv>
+    <sifra>115038.41</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gel ulošci - 43-44</naziv>
+    <sifra>115038.43</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gel uložak za petu - 35-37</naziv>
+    <sifra>115058.35</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>20.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>20.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gel uložak za petu - 38-40</naziv>
+    <sifra>115058.38</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>20.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>20.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gel uložak za petu - 41-44</naziv>
+    <sifra>115058.41</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>20.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>20.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gelpro steznik glava 835202</naziv>
+    <sifra>OXY-835202</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>25.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>25.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gelpro steznik gležanj 835188</naziv>
+    <sifra>OXY-835188</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>25.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>25.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gelpro steznik koljeno</naziv>
+    <sifra>835189</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>23.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>23.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gelpro steznik leđa trbuh 835191</naziv>
+    <sifra>OXY-835191</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gelpro steznik natkoljenica</naziv>
+    <sifra>OXY-835190</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>27.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>27.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gelpro steznik rame 835192</naziv>
+    <sifra>OXY-835192</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>35.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>35.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Gelpro steznik zapešće palac 835187</naziv>
+    <sifra>OXY-835187</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>17.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>17.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Greenland toaletni stolac 811187</naziv>
+    <sifra>OXY-811187</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>90.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>90.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Horizon P5 prijenosni koncentrator kisika - 16 ćelija</naziv>
+    <sifra>OXY-R4110021</sifra>
+    <marka>Scaleo Medical</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>3120.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>3120.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Horizon P5 prijenosni koncentrator kisika - 8 ćelija</naziv>
+    <sifra>OXY-R4110020</sifra>
+    <marka>Scaleo Medical</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>2629.73</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>2629.73</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Horizon S5 stacionarni koncentrator kisika</naziv>
+    <sifra>R21010</sifra>
+    <marka>Scaleo Medical</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>742.70</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>742.70</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Ibiza standard wc povišenje 811089</naziv>
+    <sifra>OXY-811089</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>55.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>55.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Jablotron Nanny BM-02 Monitor Disanja za Bebe</naziv>
+    <sifra>BM-02</sifra>
+    <marka>Jablotron</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>150.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>150.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Jablotron Nanny BM03 Monitor Disanja za Bebe</naziv>
+    <sifra>BM-03</sifra>
+    <marka>Jablotron</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>190.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>190.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Jastuk za noge 855165</naziv>
+    <sifra>OXY-855165</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>74.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>74.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Kadica za pranje kose 812025</naziv>
+    <sifra>OXY-812025</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>50.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>50.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Lepu Medical R20 CPAP uređaj</naziv>
+    <sifra>R20</sifra>
+    <marka>Lepu Medical</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>650.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>650.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Lowenstein Joyceeasy nazalna CPAP maska - L</naziv>
+    <sifra>Product_699f2afa-7f66-48d9-a03b-b8a6264f4867-L</sifra>
+    <marka>Löwenstein</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>99.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>99.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Lowenstein Joyceeasy nazalna CPAP maska - M</naziv>
+    <sifra>Product_699f2afa-7f66-48d9-a03b-b8a6264f4867-M</sifra>
+    <marka>Löwenstein</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>99.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>99.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Lowenstein Joyceeasy nazalna CPAP maska - S</naziv>
+    <sifra>Product_699f2afa-7f66-48d9-a03b-b8a6264f4867-S</sifra>
+    <marka>Löwenstein</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>99.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>99.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Löwenstein CARA nazalna CPAP maska - M/L</naziv>
+    <sifra>Product_3a3b9474-895a-49e2-91eb-5b41c0f35b2b-M-L</sifra>
+    <marka>Löwenstein</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>59.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>59.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Löwenstein CARA nazalna CPAP maska - S/M</naziv>
+    <sifra>01MT0177</sifra>
+    <marka>Löwenstein</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>59.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>59.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Löwenstein JOYCEone nazalna CPAP maska</naziv>
+    <sifra>01MT0178</sifra>
+    <marka>Löwenstein</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>99.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>99.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Löwenstein Prisma SMART Plus – automatski CPAP uređaj</naziv>
+    <sifra>Product_4709e908-a599-4e09-a0fd-b694b3729a97</sifra>
+    <marka>Löwenstein</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>780.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>780.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Mekana okretna stolica za kupanje</naziv>
+    <sifra>812010</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>239.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>239.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Međunožni jastuk 855060</naziv>
+    <sifra>OXY-855060</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>29.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>29.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Moovy transferna tuš stolica</naziv>
+    <sifra>822011</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>575.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>575.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Moovy transferna tuš stolica s električnim podizanjem</naziv>
+    <sifra>822013</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>1130.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>1130.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Naslon za leđa 823039</naziv>
+    <sifra>OXY-823039</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>65.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>65.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Navlaka za tuširanje, cijela noga</naziv>
+    <sifra>115079.JE</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>19.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>19.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Navlaka za tuširanje, cijela ruka</naziv>
+    <sifra>115079.BR</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>16.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>16.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Navlaka za tuširanje, noga do koljena</naziv>
+    <sifra>115079.DEJ</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>18.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>18.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Navlaka za tuširanje, ruka do lakta</naziv>
+    <sifra>115079.AVB</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>15.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>15.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Neo Fold rolator - Maslinasto zelena</naziv>
+    <sifra>826316VERTS</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>200.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>200.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Neo Fold rolator - Terakota</naziv>
+    <sifra>826316TERRS</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>200.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>200.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Neo Fun rolator za sve terene</naziv>
+    <sifra>826025</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>250.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>250.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Neo Smart karbonski rolator - L</naziv>
+    <sifra>826315NOIRL</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>400.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>400.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Neo Smart karbonski rolator - M</naziv>
+    <sifra>826315NOIR</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>400.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>400.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Neo XL rolator</naziv>
+    <sifra>826065</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>229.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>229.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Nosna kanila za kisik</naziv>
+    <sifra>1844</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>1.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>1.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Noćna posuda 801087</naziv>
+    <sifra>801087</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>10.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>10.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Okrugli stolac za tuš 812014</naziv>
+    <sifra>OXY-812014</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>49.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>49.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>OxyHero CPAP crijevo 19 mm</naziv>
+    <sifra>01MT1000</sifra>
+    <marka>Oxyhero</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>15.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>15.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>OxyHero CPAP filter zraka za ResMed AirSense 11</naziv>
+    <sifra>01MT1083</sifra>
+    <marka>Oxyhero</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Oxyhero CPAP jastuk</naziv>
+    <sifra>01MT0932</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>59.74</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>59.74</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Oxyhero filter zraka za CPAP Philips Dreamstation2</naziv>
+    <sifra>1499</sifra>
+    <marka>Oxyhero</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>15.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>15.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Oxyhero filter zraka za ResMed CPAP uređaje</naziv>
+    <sifra>1498</sifra>
+    <marka>Oxyhero</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>40.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>40.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Oxyhero četka za čišćenje CPAP sustava</naziv>
+    <sifra>01MT1028</sifra>
+    <marka>Oxyhero</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>17.19</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>17.19</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Podmetač za kadu - Bež</naziv>
+    <sifra>OXY-818053</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>24.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>24.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Podmetač za kadu - Plava</naziv>
+    <sifra>podmetac-za-kadu-bez-818053-Plava</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>24.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>24.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Poklopac za noćnu posudu</naziv>
+    <sifra>801088</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>3.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>3.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Primo rolator 4 kotača</naziv>
+    <sifra>OXY-826236</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>114.98</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>114.98</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Prisma Aqua CPAP ovlaživač zraka</naziv>
+    <sifra>Product_827fc116-f0f4-4494-8bc1-4d22e788e0d0</sifra>
+    <marka>Löwenstein</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>185.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>185.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Pulsni oksimetar SP-20</naziv>
+    <sifra>SP-20</sifra>
+    <marka>Lepu Medical</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>682.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>682.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F20 for Her – Full Face CPAP maska za žene - M</naziv>
+    <sifra>Product_aa62c887-1153-48a9-8d4a-d3a67faf7d3e-M</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>149.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>149.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F20 for Her – Full Face CPAP maska za žene - S</naziv>
+    <sifra>01MT0105</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>149.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>149.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F20, CPAP maska za cijelo lice - L</naziv>
+    <sifra>Product_486f6a49-908b-4e94-8cfd-9362adfeba6d-L</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>149.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>149.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F20, CPAP maska za cijelo lice - M</naziv>
+    <sifra>Product_486f6a49-908b-4e94-8cfd-9362adfeba6d-M</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>149.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>149.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F20, CPAP maska za cijelo lice - S</naziv>
+    <sifra>01MT0104</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>149.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>149.00</sidrena_cijena>
+    <barkod>619498634071</barkod>
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F30i CPAP maska za cijelo lice - Small okvir sa small jastučićem</naziv>
+    <sifra>Product_3cf735c8-0216-43e9-b43e-79b1062566b8-Small-okvir-sa-small-jastucicem</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>160.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>160.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F30i CPAP maska za cijelo lice - Standard okvir s large jastučićem</naziv>
+    <sifra>Product_3cf735c8-0216-43e9-b43e-79b1062566b8-Standard-okvir-s-large-jastucicem</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>160.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>160.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F30i CPAP maska za cijelo lice - Standard okvir s medium jastučićem</naziv>
+    <sifra>Product_3cf735c8-0216-43e9-b43e-79b1062566b8-Standard-okvir-s-medium-jastucicem</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>160.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>160.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F40 CPAP maska za cijelo lice - Small okvir s medium jastučićem</naziv>
+    <sifra>Product_0421fd45-acbd-4dc6-8ebc-d9d6ffe46128-Small-okvir-s-medium-jastucicem</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>165.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>165.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F40 CPAP maska za cijelo lice - Standard okvir s large jastučićem</naziv>
+    <sifra>Product_0421fd45-acbd-4dc6-8ebc-d9d6ffe46128-Standard-okvir-s-large-jastucicem</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>165.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>165.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F40 CPAP maska za cijelo lice - Standard okvir s medium jastučićem</naziv>
+    <sifra>Product_0421fd45-acbd-4dc6-8ebc-d9d6ffe46128-Standard-okvir-s-medium-jastucicem</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>165.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>165.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit F40 CPAP maska za cijelo lice - Standard okvir sa small-wide jastučićem</naziv>
+    <sifra>Product_0421fd45-acbd-4dc6-8ebc-d9d6ffe46128-Standard-okvir-sa-small-wide-jastucicem</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>165.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>165.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Resmed AirFit N20 nazalna maska za potpomognuto disanje CPAP - L</naziv>
+    <sifra>Product_7d9ce467-4999-4d2b-b798-5994e959db29-L</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>80.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>80.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Resmed AirFit N20 nazalna maska za potpomognuto disanje CPAP - M</naziv>
+    <sifra>Product_7d9ce467-4999-4d2b-b798-5994e959db29-M</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>80.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>80.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Resmed AirFit N20 nazalna maska za potpomognuto disanje CPAP - S</naziv>
+    <sifra>01MT0098</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>80.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>80.00</sidrena_cijena>
+    <barkod>619498635122</barkod>
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit N30i nazalna CPAP maska - Small okvir Small jastučić</naziv>
+    <sifra>Product_daf49c75-4395-455f-a719-5f1f3a9ff24d-Small-okvir-Small-jastucic</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>120.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>120.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit N30i nazalna CPAP maska - Small okvir Small-Wide jastučić</naziv>
+    <sifra>Product_daf49c75-4395-455f-a719-5f1f3a9ff24d-Small-okvir-Small-Wide-jastucic</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>120.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>120.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit N30i nazalna CPAP maska - Standard okvir Medium jastučić</naziv>
+    <sifra>Product_daf49c75-4395-455f-a719-5f1f3a9ff24d-Standard-okvir-Medium-jastucic</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>120.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>120.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit N30i nazalna CPAP maska - Standard okvir Wide jastučić</naziv>
+    <sifra>Product_daf49c75-4395-455f-a719-5f1f3a9ff24d-Standard-okvir-Wide-jastucic</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>120.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>120.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit N30i zamjenski jastučić za CPAP masku Wide - Small</naziv>
+    <sifra>Product_ad0ca484-8f27-43bb-a768-4013c874af9d-Small</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>55.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>55.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit N30i zamjenski jastučić za CPAP masku Wide - Small-Wide</naziv>
+    <sifra>Product_ad0ca484-8f27-43bb-a768-4013c874af9d-Small-Wide</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>55.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>55.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirFit N30i zamjenski jastučić za CPAP masku Wide - Wide</naziv>
+    <sifra>01MT1026</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>55.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>55.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Resmed Airfit P10 CPAP maska s nazalnim jastučićem</naziv>
+    <sifra>1422</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>105.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>105.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed Airfit P30i CPAP maska s nazalnim jastučićima - Small okvir sa small jastučićem</naziv>
+    <sifra>Product_ef7fce28-1741-4233-8b7a-b341f3b35d6e-Small-okvir-sa-small-jastucicem</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>115.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>115.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed Airfit P30i CPAP maska s nazalnim jastučićima - Standard okvir Medium jastučić</naziv>
+    <sifra>Product_ef7fce28-1741-4233-8b7a-b341f3b35d6e-Standard-okvir-Medium-jastucic</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>115.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>115.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed Airfit P30i CPAP maska s nazalnim jastučićima - Standard okvir Wide jastučić</naziv>
+    <sifra>Product_ef7fce28-1741-4233-8b7a-b341f3b35d6e-Standard-okvir-Wide-jastucic</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>115.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>115.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirSense 10 AutoSet Auto CPAP uređaj</naziv>
+    <sifra>Product_6c7b5103-e24f-4c7a-b34c-2ee424a90a7d</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>700.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>700.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirSense 11 AutoSet Auto CPAP uređaj</naziv>
+    <sifra>Product_fa429736-878e-41db-b13e-0cccf6bdcaf9</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>830.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>830.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed AirSense 11 standardna CPAP posuda za vodu (ovlaživač)</naziv>
+    <sifra>Product_166b89af-ad2f-4474-b034-1c78ad075a49</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>150.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>150.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed ClimateLineAir 11 grijano crijevo za AirSense 11</naziv>
+    <sifra>Product_c94986cc-093a-4640-9a16-d7ce2bdff020</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>100.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>100.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed Gecko jastučić za nos za CPAP maske - Large</naziv>
+    <sifra>01MT0423</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>39.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>39.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed Gecko jastučić za nos za CPAP maske - Small</naziv>
+    <sifra>01MT0422</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>39.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>39.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed HumidAir grijani CPAP ovlaživač zraka za AirSense 10 i AirCurve 10</naziv>
+    <sifra>01MT1061</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>100.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>100.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed Mirage FX for Her, nazalna CPAP maska za žene - Small</naziv>
+    <sifra>Product_978cd413-a370-42c5-aac9-211d62af9ffe-Small</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed Mirage FX for Her, nazalna CPAP maska za žene - Standard</naziv>
+    <sifra>01MT0117</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed Mirage FX, nazalna CPAP maska - Standard</naziv>
+    <sifra>01MT0116</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod>619498621170</barkod>
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>ResMed Mirage FX, nazalna CPAP maska - Široka</naziv>
+    <sifra>Product_c8469b14-a61e-4128-8ad1-6a0ffcdad370-Siroka</sifra>
+    <marka>ResMed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>69.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>69.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Ring O2 pulsni oksimetar</naziv>
+    <sifra>OXY-O2RING</sifra>
+    <marka>Lepu Medical</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>170.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>170.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Robooter X40 sklopiva električna ivalidska kolica</naziv>
+    <sifra>875040</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>3099.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>3099.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Robust invalidska kolica</naziv>
+    <sifra>874002</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>230.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>230.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Ručka za kadu vakum 815230</naziv>
+    <sifra>OXY-815230</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>32.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>32.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Scooter Traveler Plus</naziv>
+    <sifra>824054</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>1699.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>1699.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Senzorska noćna prostirka - 100cm*50cm</naziv>
+    <sifra>819236</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>195.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>195.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Senzorska noćna prostirka - 80cm*40cm</naziv>
+    <sifra>819241</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>170.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>170.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Separator prsta</naziv>
+    <sifra>1443</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>4.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>4.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Separator prsta 115049.S</naziv>
+    <sifra>OXY-115049.S</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>4.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>4.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Separator prsta 115050.S</naziv>
+    <sifra>OXY-115050.S</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>9.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>9.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Separator prsta 115051.S</naziv>
+    <sifra>OXY-115051.S</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>5.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>5.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Separator prsta 115052</naziv>
+    <sifra>OXY-115052</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>9.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>9.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Separator prsta 115053</naziv>
+    <sifra>OXY-115053</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>8.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>8.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Separator prsta 115054</naziv>
+    <sifra>OXY-115054</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>0.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>0.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Separator prsta 115056.S</naziv>
+    <sifra>OXY-115056.S</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>7.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>7.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Separator prsta 115057.S</naziv>
+    <sifra>6908243</sifra>
+    <marka>Deramed</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>5.18</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>5.18</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Siguronosni rukohvat 815080 - 30 cm</naziv>
+    <sifra>OXY-815080</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>9.80</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>9.80</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Siguronosni rukohvat 815080 - 40 cm</naziv>
+    <sifra>siguronosni-rukohvat-815080-40-cm</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>102.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>102.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Siguronosni rukohvat 815080 - 45 cm</naziv>
+    <sifra>siguronosni-rukohvat-815080-45-cm</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>10.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>10.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Siguronosni rukohvat 815080 - 60 cm</naziv>
+    <sifra>siguronosni-rukohvat-815080-60-cm</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>15.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>15.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Simplex Lift stolić za hranjenje 823121</naziv>
+    <sifra>OXY-823121</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>95.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>95.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Sklopiva hodalica bez kotača 826068</naziv>
+    <sifra>OXY-826068</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>68.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>68.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Sklopivi štap alarm svjetlo</naziv>
+    <sifra>816091</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>25.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>25.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Sklopivi štap Cvijet 816069.B</naziv>
+    <sifra>OXY-816069.B</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>25.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>25.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Sklopivi štap Kava 816068</naziv>
+    <sifra>OXY-816068</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>25.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>25.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Sklopivi štap Leopard 816069LE</naziv>
+    <sifra>OXY-816069LE</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>25.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>25.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Skuter Traveler Maxi - Crna</naziv>
+    <sifra>824049NOIR</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>3199.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>3199.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Skuter Traveler Maxi - Crvena</naziv>
+    <sifra>824049ROUGE</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>3199.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>3199.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>SomnoSept sredstvo za čišćenje CPAP opreme, 400mL</naziv>
+    <sifra>01CA0001</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>13.17</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>13.17</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Sprava za navlačenje čarapa 819175</naziv>
+    <sifra>OXY-819175</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>29.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>29.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Sprej za hlađenje</naziv>
+    <sifra>802063</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>7.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>7.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Stepenice za kadu Moorea 812225</naziv>
+    <sifra>OXY-812225</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>45.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>45.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Stolica za tuširanje Bora 812267</naziv>
+    <sifra>OXY-8122267</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>55.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>55.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Tempur Original jastuk medium</naziv>
+    <sifra>955</sifra>
+    <marka>Tempur</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>163.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>163.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>TENS EM 49</naziv>
+    <sifra>OXY-838021</sifra>
+    <marka>Beurer</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>79.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>79.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Tlakomjer 861230</naziv>
+    <sifra>OXY-861230</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>39.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>39.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Tlakomjer za zapešće 861185</naziv>
+    <sifra>OXY-861185</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>24.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>24.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Viseća sjedalica za kadu</naziv>
+    <sifra>812240</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>48.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>48.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Zero Metal invalidska kolica</naziv>
+    <sifra>825034</sifra>
+    <marka />
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>790.00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>790.00</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Štaka Tukan - Plava</naziv>
+    <sifra>816004.B</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>16.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>16.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>nedostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Štaka Tukan - Siva</naziv>
+    <sifra>816004.G</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>16.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>16.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Štaka Tukan - Tirkizna</naziv>
+    <sifra>816004.T</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>16.50</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>16.50</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+  <Proizvod>
+    <naziv>Štap sa 4 kraka</naziv>
+    <sifra>OXY-816038</sifra>
+    <marka>Identites</marka>
+    <jedinica_mjere />
+    <cijena_za_jedinicu_mjere />
+    <maloprodajna_cijena>22.90</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje />
+    <sidrena_cijena>22.90</sidrena_cijena>
+    <barkod />
+    <dostupnost>dostupno</dostupnost>
+  </Proizvod>
+</Cjenik>
