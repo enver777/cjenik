@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.nojekyll
+!index.html
+!cjenik-najnoviji.csv
+!cjenik-najnoviji.xml
+!webshop_*.csv
+!webshop_*.xml
